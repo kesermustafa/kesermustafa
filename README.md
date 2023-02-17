@@ -1,4 +1,4 @@
 <img src=banner.jpg>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=kesermustafa&show_icons=true&theme=radical
 
