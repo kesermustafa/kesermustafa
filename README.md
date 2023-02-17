@@ -1,3 +1,3 @@
-<img src=https://github.com/kesermustafa/kesermustafa/raw/main/banner.jpg>
+<img src=banner.jpg>
 
 
